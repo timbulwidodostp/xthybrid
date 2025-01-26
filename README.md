@@ -3,6 +3,8 @@ Hybrid and correlated random effect (Mundlak) models within the framework of gen
 
 Estimate hybrid and correlated random-effects and Mundlak mixed-effects models for linear and nonlinear outcomes Use xthybrid With STATA 18
 
+https://www.youtube.com/watch?v=R7KVX9w6CtM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
